@@ -3,7 +3,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.second {
+#second {
     color: rgb(37, 59, 229);
     font-size: 36px;
 }
@@ -13,7 +13,7 @@
 
 }
 
-.fourth {
+#fourth {
     background-color: rgb(78, 250, 63);
     font-size: 24px;
     font-weight: bold;
